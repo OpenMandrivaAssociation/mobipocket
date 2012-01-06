@@ -1,6 +1,6 @@
 Name: mobipocket
 Summary: A collection of plugins to handle mobipocket files
-Version: 4.7.95
+Version: 4.7.97
 Release: 1
 Epoch: 2
 Group: Graphical desktop/KDE
